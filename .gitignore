@@ -1,0 +1,5 @@
+backup
+*.o
+.vscode/
+.idea/
+.DS_Store
